@@ -9,5 +9,7 @@ socials:
     url: https://www.instagram.com/example
   - platform: facebook
     url: https://www.facebook.com/example
+  - platform: instagram
+    url: https://www.instagram.com/nickmavromatis/
 ---
 Αυτό είναι δοκιμαστικό κείμενο για τη σελίδα επικοινωνίας. Όλα τα στοιχεία επικοινωνίας εδώ είναι ψεύτικα.
