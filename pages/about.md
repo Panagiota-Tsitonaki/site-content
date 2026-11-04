@@ -1,7 +1,7 @@
 ---
 title: Σχετικά με εμένα!
 intro: Δοκιμαστική εισαγωγή. Άλλαξέ την από το CMS για να δεις αν φτάνει στο site.!!!
-heroImage: https://raw.githubusercontent.com/nmcobalt/test-content-repo/main/images/test-portrait.jpg
+heroImage: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/test-portrait.jpg
 heroImageAlt: Δοκιμαστική εικόνα με ροζ φόντο και τη λέξη «Δοκιμή τωρα»
 ---
 Αυτό είναι δοκιμαστικό κείμενο για τη σελίδα «Σχετικά με εμένα». Δεν είναι το πραγματικό κείμενο της σελίδας.

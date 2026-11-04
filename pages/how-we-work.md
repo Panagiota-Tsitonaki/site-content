@@ -1,7 +1,7 @@
 ---
 title: Πώς θα δουλέψουμε μαζί!
 intro: Δοκιμαστική εισαγωγή για τη σελίδα χωρίς φωτογραφία.
-heroImage: https://raw.githubusercontent.com/nmcobalt/test-content-repo/main/images/05-παναγιωτα-τσιτωνακη-φωτογραφια.jpg
+heroImage: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/05-παναγιωτα-τσιτωνακη-φωτογραφια.jpg
 heroImageAlt: η εικονα μου
 ---
 Αυτό είναι δοκιμαστικό κείμενο για τη σελίδα «Πώς θα δουλέψουμε μαζί». Η φωτογραφία είναι προαιρετική εδώ, οπότε το αρχείο δεν έχει `heroImage`.
