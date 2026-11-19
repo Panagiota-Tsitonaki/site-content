@@ -3,8 +3,8 @@ title: "Η Δύναμη της Ευθύνης: Ποιος κρατάει το τ
 slug: neo-arthro
 date: 2026-11-19
 excerpt: Η μεταφορά ευθύνης σε άλλους-άλλα
-cover: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/05-παναγιωτα-τσιτωνακη-φωτογραφια.jpg
-coverAlt: ειμαι εγώ!!!
+cover: ""
+coverAlt: ""
 draft: false
 ---
 Στην κοινωνία μας υπάρχει μια πολύ συχνή συνήθεια: να μεταφέρουμε την ευθύνη για όσα μας συμβαίνουν σε τρίτους. Συχνά το βάρος της ευθύνης μάς τρομάζει. Έτσι, αυτο-εγκλωβιζόμαστε σε μια «φυλακή» περιοριστικών πεποιθήσεων, επαναλαμβάνοντας δικαιολογίες όπως:
@@ -21,10 +21,6 @@ draft: false
 
 Όλα αυτά, όμως, είναι οι **περιοριστικές** μας **πεποιθήσεις**.
 
-
-
 ![νεα εικονα απο μενα](https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_b8c47c31.jpg "Νεα εικόνα")
 
-
-
-![Giota](https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/05-παναγιωτα-τσιτωνακη-φωτογραφια.jpg "Giota")
+![Giota]( "Giota")
