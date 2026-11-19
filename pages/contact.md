@@ -8,7 +8,7 @@ phone: +30 6948268454
 bookingUrl: https://example.com/rantevou
 socials:
   - platform: instagram
-    url: https://www.instagram.com/example
+    url: https://www.instagram.com/giotatsitonaki
   - platform: facebook
     url: https://www.facebook.com/example
 ---
