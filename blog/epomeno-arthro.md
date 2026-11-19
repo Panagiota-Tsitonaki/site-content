@@ -7,8 +7,8 @@ cover: ""
 coverAlt: ""
 draft: false
 ---
-Θα γράψω αργότερα
 
-![τεστ](https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_1a683cc9.jpg "τεστ")
 
-Χαχαχα
+
+
+![Πώς να Δαμάσεις το Άγχος της Απόδοσης: Το Γνωσιακό-Συμπεριφοριστικό Coaching στην Πράξη](https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_1a683cc9.jpg "Μια μελέτη περίπτωσης")
