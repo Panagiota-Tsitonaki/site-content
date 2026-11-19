@@ -4,7 +4,7 @@ intro: Δοκιμαστική εισαγωγή για τη σελίδα επικ
 heroImage: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_8bffd66d.jpg
 heroImageAlt: Εγω
 email: test@example.com
-phone: +30 210 000 0000
+phone: +30 6948268454
 bookingUrl: https://example.com/rantevou
 socials:
   - platform: instagram
