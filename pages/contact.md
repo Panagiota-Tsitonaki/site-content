@@ -1,6 +1,8 @@
 ---
 title: Επικοινωνία
 intro: Δοκιμαστική εισαγωγή για τη σελίδα επικοινωνίας.
+heroImage: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_8bffd66d.jpg
+heroImageAlt: Εγω
 email: test@example.com
 phone: +30 210 000 0000
 bookingUrl: https://example.com/rantevou
