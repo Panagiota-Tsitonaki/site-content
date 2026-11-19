@@ -23,4 +23,4 @@ draft: false
 
 ![νεα εικονα απο μενα](https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_b8c47c31.jpg "Νεα εικόνα")
 
-![Giota]( "Giota")
+![]()
