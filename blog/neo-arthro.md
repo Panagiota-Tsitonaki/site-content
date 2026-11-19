@@ -13,6 +13,6 @@ draft: true
 
 > τίποτα πιο ωραιο από το ωραιο
 
-![νεα εικονα](https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/test-portrait.jpg "Νεα εικόνα")
+![νεα εικονα](https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_955bd337.jpg "Νεα εικόνα")
 
 εχω να πω πολλά ακόμα...!!!
