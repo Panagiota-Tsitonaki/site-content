@@ -1,10 +1,11 @@
 ---
-title: Επομενο άρθρο
+title: "Πώς να Δαμάσεις το Άγχος της Απόδοσης: Το Γνωσιακό-Συμπεριφοριστικό
+  Coaching στην Πράξη"
 slug: epomeno-arthro
 date: 2026-11-19
-excerpt: Επομενο αρθρο ακόμα πιο ωραίο
+excerpt: Μία μελέτη περίπτωσης
 cover: ""
-coverAlt: ""
+coverAlt: εγώ
 draft: false
 ---
 
