@@ -1,11 +1,11 @@
 ---
 title: Νεο άρθρο
 slug: neo-arthro
-date: 2026-10-30
+date: 2026-11-19
 excerpt: Είναι το νεο μου αρθρο
 cover: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/05-παναγιωτα-τσιτωνακη-φωτογραφια.jpg
-coverAlt: ειμαι εγώ
-draft: false
+coverAlt: ειμαι εγώ!!!
+draft: true
 ---
 ## Ειναι το νεο μου άρθρο
 
