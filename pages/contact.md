@@ -3,7 +3,7 @@ title: Επικοινωνία
 intro: Δοκιμαστική εισαγωγή για τη σελίδα επικοινωνίας.
 heroImage: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_8bffd66d.jpg
 heroImageAlt: Εγω
-email: test@example.com
+email: giotat2012@gmail.com
 phone: +30 6948268454
 bookingUrl: https://example.com/rantevou
 socials:
