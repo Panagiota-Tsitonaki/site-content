@@ -10,6 +10,6 @@ socials:
   - platform: instagram
     url: https://www.instagram.com/giotatsitonaki
   - platform: facebook
-    url: https://www.facebook.com/example
+    url: https://www.facebook.com/giotatsitonaki
 ---
 Αυτό είναι δοκιμαστικό κείμενο για τη σελίδα επικοινωνίας. Όλα τα στοιχεία επικοινωνίας εδώ είναι ψεύτικα.
