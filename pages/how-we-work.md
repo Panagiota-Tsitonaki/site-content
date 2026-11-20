@@ -2,7 +2,7 @@
 title: Πώς θα δουλέψουμε μαζί!
 intro: Aς μιλήσουμε πρώτα για το τι είναι το Life Coaching και πώς μπορεί να
   μεταμορφώσει τη ζωή σου.
-heroImage: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/05-παναγιωτα-τσιτωνακη-φωτογραφια.jpg
+heroImage: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_d9038927.jpg
 heroImageAlt: η εικονα μου
 ---
 Πολλοί άνθρωποι αναρωτιούνται τι ακριβώς είναι το Life Coaching, σε ποιους απευθύνεται και πώς μπορεί να βοηθήσει στην πράξη.
