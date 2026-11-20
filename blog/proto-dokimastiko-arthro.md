@@ -44,7 +44,7 @@ draft: false
 * Σαν τον καθηγητή σου: Σε κρατάει σε εγρήγορση και περιμένει να δει την πρόοδό σου στο επόμενο μάθημα.
 * Σαν τον προσωπικό σου γυμναστή: Σχεδιάζει τις κατάλληλες ασκήσεις για τον δικό σου «σωματότυπο» και τις δικές σου ανάγκες, με στόχο το καλύτερο δυνατό αποτέλεσμα.
 
-![Δοκιμαστική εικόνα με ροζ φόντο και τη λέξη «Εξώφυλλο»](https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/test-cover.jpg)
+![](https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/img_20230625_105914.jpg)
 
 ## Η Επιστήμη πίσω από το Coaching
 
