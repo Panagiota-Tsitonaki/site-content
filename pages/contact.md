@@ -1,9 +1,16 @@
 ---
 title: Επικοινωνία
-intro: "Η αλλαγή δεν συμβαίνει στην τύχη. Απαιτεί να δεσμευτείς απέναντι στον
-  εαυτό σου και να αναλάβεις την ευθύνη έχοντας πάντα στο μυαλό σου ότι: «Το
-  \"θέλω\" απ' το \"δεν μπορώ\", ένα \"φοβάμαι\" δρόμος»."
-heroImage: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_8bffd66d.jpg
+intro: >-
+  Η αλλαγή απαιτεί να δεσμευτείς απέναντι στον εαυτό σου και να αναλάβεις την
+  ευθύνη έχοντας πάντα στο μυαλό σου ότι: 
+
+
+  «Το "θέλω" απ' το "δεν μπορώ", ένα "φοβάμαι" δρόμος».
+
+
+
+  Είσαι έτοιμος?
+heroImage: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_804373eb.jpg
 heroImageAlt: Εγω
 email: giotat2012@gmail.com
 phone: +30 6948268454
