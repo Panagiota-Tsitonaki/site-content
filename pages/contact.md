@@ -10,7 +10,7 @@ intro: >-
 
 
   Είσαι έτοιμος?
-heroImage: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_804373eb.jpg
+heroImage: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/παναγιωτα-τσιτωνακη-φωτο.jpg
 heroImageAlt: Εγω
 email: giotat2012@gmail.com
 phone: +30 6948268454
