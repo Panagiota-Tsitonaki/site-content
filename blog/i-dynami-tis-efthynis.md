@@ -1,6 +1,6 @@
 ---
 title: "Η Δύναμη της Ευθύνης: Ποιος κρατάει το τιμόνι της ζωής σου;"
-slug: neo-arthro
+slug: i-dynami-tis-efthynis
 date: 2026-11-19
 excerpt: Η μεταφορά ευθύνης σε άλλους-άλλα ο Ρόλος του Life Coach
 cover: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/img_20240204_165513.jpg

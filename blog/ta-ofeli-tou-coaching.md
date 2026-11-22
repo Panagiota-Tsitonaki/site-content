@@ -1,6 +1,6 @@
 ---
 title: Τα Οφέλη του Coaching
-slug: coaching-arthra
+slug: ta-ofeli-tou-coaching
 date: 2026-11-19
 excerpt: Πώς θα αλλάξει η καθημερινότητά σου;
 cover: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/img_20231219_213914.jpg

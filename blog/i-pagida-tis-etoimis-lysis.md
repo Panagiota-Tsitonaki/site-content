@@ -1,6 +1,6 @@
 ---
 title: Η παγίδα της «έτοιμης λύσης»
-slug: proto-dokimastiko-arthro
+slug: i-pagida-tis-etoimis-lysis
 date: 2026-11-19
 excerpt: Τι σημαίνει τελικά «αναλαμβάνω την ευθύνη»;
 cover: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/img_20230625_104603.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Πώς να Δαμάσεις το Άγχος της Απόδοσης: Το Γνωσιακό-Συμπεριφοριστικό
   Coaching στην Πράξη"
-slug: epomeno-arthro
+slug: agchos-apodosis
 date: 2026-11-19
 updated: 2026-11-19
 excerpt: Μία μελέτη περίπτωσης
