@@ -5,8 +5,8 @@ slug: synaisthimatiki-noimosyni-eq
 date: 2026-11-19
 excerpt: Πώς ανακαλύπτω το επίπεδο συναισθηματικής μου νοημοσύνης (EQ) μέσα από
   τα βιώματά μου;
-cover: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/img_20240706_153326.jpg
-coverAlt: μια κοπέλα με καπέλο
+cover: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/file_000000008a288210b8d4f6292c3d8e8f.png
+coverAlt: "μια κοπέλα σαν πίνακας "
 draft: false
 ---
 Μια μελέτη περίπτωσης από προσωπικά μου βιώματα για το πως ανακαλύπτω το επίπεδο της συναισθηματικής μου νοημοσύνης
