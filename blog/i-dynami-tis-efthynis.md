@@ -43,6 +43,6 @@ draft: false
 
 Το αποτέλεσμα; Η διαδικασία ολοκληρώνεται όταν πλέον νιώθεις απόλυτη διαύγεια, εμπιστοσύνη και αυτοπεποίθηση. Φεύγεις έχοντας τη δύναμη και τις τεχνικές να φέρεις την αλλαγή που επιθυμείς, σε προσωπικό ή επαγγελματικό επίπεδο.
 
-![νεα εικονα απο μενα](https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_b8c47c31.jpg "Νεα εικόνα")
+![νεα εικονα απο μενα](https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_b8c47c31.jpg)
 
 ![]()
