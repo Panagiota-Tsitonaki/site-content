@@ -4,7 +4,7 @@ slug: ta-ofeli-tou-coaching
 date: 2026-11-19
 excerpt: Πώς θα αλλάξει η καθημερινότητά σου;
 cover: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/img_20231219_213914.jpg
-coverAlt: ένας μαέστρος
+coverAlt: ένας μαέστρος και μία ορχήστρα
 draft: false
 ---
 Όλοι μας έχουμε περιθώριο για συνεχή βελτίωση και για να μετατρέψουμε τη γνώση σε βαθιά επίγνωση. Το coaching σε βοηθά να ανακαλύψεις, να ενισχύσεις τα δυνατά σου σημεία και να ζήσεις μια πιο ισορροπημένη ζωή με νόημα.
