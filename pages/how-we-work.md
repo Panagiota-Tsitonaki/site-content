@@ -3,7 +3,7 @@ title: Πώς θα δουλέψουμε μαζί!
 intro: Aς μιλήσουμε πρώτα για το τι είναι το Life Coaching και πώς μπορεί να
   μεταμορφώσει τη ζωή σου.
 heroImage: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_d9038927.jpg
-heroImageAlt: "η Παναγιώτα Τσιτωνάκη σε πολυθρόνα με ένα καφέ στο χέρι "
+heroImageAlt: η Παναγιώτα Τσιτωνάκη σε πολυθρόνα με ένα καφέ στο χέρι περιμένει να μιλήσετε
 seo:
   title: ""
 ---
