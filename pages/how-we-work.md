@@ -5,7 +5,7 @@ intro: Aς μιλήσουμε πρώτα για το τι είναι το Life C
 heroImage: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/image_d9038927.jpg
 heroImageAlt: "η Παναγιώτα Τσιτωνάκη σε πολυθρόνα με ένα καφέ στο χέρι "
 seo:
-  title: Πως θα δουλέψουμε μαζί
+  title: ""
 ---
 Πολλοί άνθρωποι αναρωτιούνται τι ακριβώς είναι το Life Coaching, σε ποιους απευθύνεται και πώς μπορεί να βοηθήσει στην πράξη.
 
