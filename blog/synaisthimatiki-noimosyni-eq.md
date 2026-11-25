@@ -6,7 +6,7 @@ date: 2026-11-19
 excerpt: Πώς ανακαλύπτω το επίπεδο συναισθηματικής μου νοημοσύνης (EQ) μέσα από
   τα βιώματά μου;
 cover: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/file_000000008a288210b8d4f6292c3d8e8f.png
-coverAlt: "μια κοπέλα σαν πίνακας "
+coverAlt: μια κοπέλα σαν πίνακας ζωγραφικής
 draft: false
 ---
 Μια μελέτη περίπτωσης από προσωπικά μου βιώματα για το πως ανακαλύπτω το επίπεδο της συναισθηματικής μου νοημοσύνης
