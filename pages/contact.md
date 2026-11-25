@@ -12,11 +12,11 @@ heroImage: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/ma
 heroImageAlt: Εγω
 email: giotat2012@gmail.com
 phone: +30 6948268454
-bookingUrl: https://example.com/rantevou
+bookingUrl: ""
 socials:
   - platform: instagram
     url: https://www.instagram.com/giotatsitonaki
   - platform: facebook
     url: https://www.facebook.com/giotatsitonaki
 ---
-Γράψε το όνομά σου και τα στοιχεία σου και εγώ θα επικοινωνήσω σύντομα μαζί σου.
+Στείλε μου ένα email με το όνομά σου και τα στοιχεία σου και εγώ θα επικοινωνήσω σύντομα μαζί σου. Εναλλακτικά, πάρε με τηλέφωνο για να κλείσουμε το πρώτο ραντεβού μας.
