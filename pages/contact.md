@@ -18,5 +18,7 @@ socials:
     url: https://www.instagram.com/giotatsitonaki
   - platform: facebook
     url: https://www.facebook.com/giotatsitonaki
+  - platform: linkedin
+    url: https://www.linkedin.com/in/giota-tsitonaki-067046416
 ---
-Στείλε μου ένα email με το όνομά σου και τα στοιχεία σου και εγώ θα επικοινωνήσω σύντομα μαζί σου. Εναλλακτικά, πάρε με τηλέφωνο για να κλείσουμε το πρώτο ραντεβού μας.
+Στείλε μου email με το όνομά σου και τα στοιχεία σου [giotat2012@gmail.com](mailto:giotat2012@gmail.com) και εγώ θα επικοινωνήσω σύντομα μαζί σου. Εναλλακτικά, πάρε με τηλέφωνο στο [+30 6948268454](tel:+306948268454)  για να κλείσουμε το πρώτο ραντεβού μας.
