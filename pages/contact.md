@@ -9,7 +9,7 @@ intro: >-
 
    Εσύ κάνεις το πρώτο βήμα, ξεπερνάς το φόβο, και ο coach είναι εδώ για να σε υποστηρίξει σε όλη τη διαδρομή, είσαι έτοιμος-έτοιμη να ξεκινήσεις;
 heroImage: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/παναγιωτα-τσιτωνακη-φωτο.jpg
-heroImageAlt: Εγω
+heroImageAlt: Μία φωτογραφία της Παναγιώτας Τσιτωνάκη που χαμογελάει με αισιοδοξία
 email: giotat2012@gmail.com
 phone: +30 6948268454
 bookingUrl: ""
