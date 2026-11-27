@@ -4,7 +4,7 @@ title: "Μετασχηματίζουσα Μάθηση και αποπροσαν�
 slug: metashimatizousa-mathisi-arthro
 date: 2026-11-27
 excerpt: Πώς να μετατρέψεις μια «σφαλιάρα» της ζωής στο μεγαλύτερο κίνητρο εξέλιξης
-cover: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/1795805712431.jpg
+cover: https://raw.githubusercontent.com/Panagiota-Tsitonaki/site-content/main/images/1795805712431-1-.jpg
 coverAlt: η Παναγιώτα Τσιτωνάκη με τη μεγάλη της αδερφή Ειρήνη
 draft: false
 ---
